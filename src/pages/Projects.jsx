@@ -13,11 +13,11 @@ const Projects = () => {
 
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
         <p>
-          I've embarked on numero projects throughout the years, but these 
+          I've embarked on numeros projects throughout the years, but these 
           are the ones I hold closest to my heart. Many of them are open-source, 
           so if you come across something that piques your interest, feel free 
           to explore the codebase and contribute your ideas for further enhancements.
-          Your collaboration is highly valued!
+          Your collaboration is highly valued! 
         </p>
       </div>
 

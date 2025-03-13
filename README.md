@@ -9,7 +9,7 @@ This project is a portfolio website built using React and Vite. It showcases var
 To clone the repository and install dependencies, run the following commands:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Srihari-00/Fox-Island-Portfolio.git>
 cd portfolio
 npm install
 ```
